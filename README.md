@@ -1,0 +1,2 @@
+# git-basics-project
+gyakorlás 
